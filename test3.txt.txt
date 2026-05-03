@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 this is to explain branch concepts
+=======
+this is to explain branch concepts
+
+teammate made changes and pushed it in github
+>>>>>>> 0eb95b29060b2cdef1a78ba8f4dfb3a26f112c48
